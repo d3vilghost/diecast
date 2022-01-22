@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="324" height="324" viewBox="0 0 324 324">
+  <g id="Group_1432" data-name="Group 1432" transform="translate(-1319 -737)">
+    <g id="Rectangle_63" data-name="Rectangle 63" transform="translate(1319 737)" fill="#fff" stroke="#dedede" stroke-width="1">
+      <rect width="324" height="324" stroke="none"/>
+      <rect x="0.5" y="0.5" width="323" height="323" fill="none"/>
+    </g>
+    <path id="Icon_material-add-a-photo" data-name="Icon material-add-a-photo" d="M30.306,31.806V1.5h20.2V31.806H80.817v20.2H50.511V82.317h-20.2V52.011H0v-20.2ZM60.613,92.419V62.113H90.919V31.806h70.715l18.487,20.2h32.024a20.264,20.264,0,0,1,20.2,20.2V193.441a20.264,20.264,0,0,1-20.2,20.2H50.511a20.264,20.264,0,0,1-20.2-20.2V92.419Zm70.715,90.919a50.511,50.511,0,1,0-50.511-50.511A50.529,50.529,0,0,0,131.328,183.339ZM99,132.828A32.327,32.327,0,1,0,131.328,100.5,32.292,32.292,0,0,0,99,132.828Z" transform="translate(1365 791.5)" fill="#dedede"/>
+  </g>
+</svg>

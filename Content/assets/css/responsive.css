@@ -1,0 +1,148 @@
+ 
+@media (min-width:768px) and (max-width: 4000px){
+    .container {
+      width: 90% !important;
+      max-width: 90% !important;
+    }
+  }
+  
+@media screen and (min-width: 991.87px) { 
+  .personchat{
+    display: block !important;
+  }
+  .namelist{
+    display: block !important;
+  }
+  .chatback{
+    display: none !important;
+  }
+}
+@media screen and (max-width: 991px) { 
+  body { 
+    padding-top: 94px;
+  }
+  .searchfrm input { 
+      height: 23px; 
+      font-size: 12px;
+  }
+  .btmheaderbar {
+      padding: 15px 0;
+      box-shadow: -2px 2px 20px 0px #ebebeb;
+  }
+  .personchat{
+    display: none;
+  }
+  .chatback{
+    display: block !important;
+  }
+  .user-info li a img {
+    width: 16px; 
+    top: 6px;
+  }
+  .user-info li.wishlistarea a img {
+    width: 16px;     
+    top: 7px;
+  }
+  .user-info li.wishlistarea a .heartitem-amt { 
+    width: 16px;
+    height: 16px; 
+    top: -5px;
+    right: -11px; 
+    line-height: 16px;
+    font-size: 9px;
+  }
+  .user-info li a { 
+    padding-left: 23px;
+    font-size: 11px;
+    line-height: 14px;
+  }
+  .boldarea {
+    font-size: 11px;
+    line-height: 13px;
+  }
+  .user-info li { 
+      margin: 0px 0 0px 20px;
+  }
+}
+@media screen and (max-width:768px) {
+  .topnav-upload a .fa { 
+      margin: 0 13px; 
+      font-size: 20px;
+  }
+  .container {
+    max-width: 100% !important;
+  }
+  .topheaderbar ul li a { 
+      font-size: 10px;
+      padding: 0 9px 0 0;
+  }
+  .top-logo {
+    width: 90px; 
+    top: 28px;
+  }
+  .myupld-tablestyle-custm table tr td{
+    font-size: 12px;
+    line-height: 15px;
+  }
+  .account-nav ul li{
+    display: inline-block;
+    margin-bottom: 2px;
+  }
+  .account-nav ul li a { 
+      padding: 4px; 
+      font-size: 12px;
+    }
+  .f-copyright p {
+    text-align: center;
+  }
+  .f-contc ul{
+    text-align: center;
+    margin-top: 15px;
+  }
+  .f-contc ul li a{
+    padding: 0 5px;
+  }
+  .f-logo img {
+    width: 75px;
+  }
+  .top-info-bar { 
+      padding-top:45px;
+  }
+  .top-info-bar img {
+      width: 70px;
+      height: 70px;
+  }
+} 
+@media screen and (max-width:600px) {
+  body { 
+    padding-top: 59px;
+  }
+  .topheaderbar{
+    display: none;
+  }
+  .leftmenu li{
+    display: none;
+  }
+  .leftmenu li:nth-child(1){
+    display: block;
+  }
+  .leftmenu li:nth-child(1) a{
+    font-size: 0px;
+  }
+  .leftmenu li:nth-child(1) a i{
+    font-size: 16px;
+  }
+  .top-logo {
+    width: 71px;
+    top: 10px;
+    left: 40px;
+    display: block;
+    margin: 0;
+  }
+  .user-info li a,.boldarea { 
+      font-size: 10px; 
+  }
+  .upload-details .upload-name span{
+    float: left!important;
+  }
+}
